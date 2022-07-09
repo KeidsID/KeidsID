@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kemal Idris from Indonesia
-- 👀 I’m interested in coding app
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in coding app on any platform
 - 📫 How to reach me : kemalidris3362@gmail.com
 
 <!---
