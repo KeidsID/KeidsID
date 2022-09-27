@@ -1,8 +1,8 @@
 ## Hi, My name is Kemal 👋
 
-I’m self-taught developer.
+I’m a self-taught developer.
 
-- 🌱 I’m currently learning Flutter, Node JS, and GCP.
+- 🌱 I’m currently learning Flutter until an expert in it.
 - 📫 How to reach me : keidscode@gmail.com
 
 <!---
