@@ -13,19 +13,19 @@ I may have less experience, but I will continue to learn more and more until I c
   <img 
     src="https://raw.githubusercontent.com/KeidsID/KeidsID/main/assets/icons/gmail-logo.png" 
     alt="Keids | Discord"
-    width="25vw" />
+    width="50vw" />
 </a>
 <a href="https://discordapp.com/users/1027789230069518346">
   <img 
     src="https://raw.githubusercontent.com/KeidsID/KeidsID/main/assets/icons/discord-logo.png" 
     alt="Keids | Discord"
-    width="25vw" />
+    width="50vw" />
 </a>
 <a href="https://twitter.com/keids_id">
   <img 
     src="https://raw.githubusercontent.com/KeidsID/KeidsID/main/assets/icons/twitter-logo.png" 
     alt="Keids | Discord"
-    width="25vw" />
+    width="50vw" />
 </a>
 
 ## 🌱 I’m currently learning...
