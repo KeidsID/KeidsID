@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kemal</h1>
-<h2 align="center">A Flutter enthusiast</h2>
+<h3 align="center" style="font-weight: bold">A Flutter enthusiast</h3>
 
 </br>
 
