@@ -30,10 +30,16 @@ I may have less experience, but I will continue to learn more and more until I c
 
 ## 🌱 I’m currently learning...
 
-- Flutter until I'm good at it
-- simple RESTful API using [hapi](https://hapi.dev/)
-- about AWS
-- about Postman
+[rxdart]: https://pub.dev/packages/rxdart
+[bloc]: https://pub.dev/packages/flutter_bloc
+
+- Flutter clean architecture
+- Test-Driven Development (TDD)
+- Modularization
+- Reactive Programming (Data Stream, [RxDart][rxdart], and [BLoC][bloc])
+- Continuous Integration (CI)
+- Performance and Security (App profiling, encryption, and SSL Pinning)
+- Post-Development (Firebase Analytics and Firebase Crashlytics)
 
 ## 💻 Tech Skills
 
@@ -47,6 +53,7 @@ I may have less experience, but I will continue to learn more and more until I c
 </br>
 
 ![](https://img.shields.io/badge/Tools-Firebase-red?style=flat&logo=firebase&color=fba30b)
+![](https://img.shields.io/badge/Tools-Postman-red?style=flat&logo=postman&color=ff6c37)
 ![](https://img.shields.io/badge/Tools-NPM-red?style=flat&logo=npm&color=cb3837)
 ![](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=f05032)
 ![](https://img.shields.io/badge/Tools-GitHub-red?style=flat&logo=gitHub&color=181717)
