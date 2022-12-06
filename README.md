@@ -1,4 +1,9 @@
-![My Banner](assets/my-profile/my-banner.gif)
+<img 
+  src="assets/my-profile/my-banner.gif"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;" />
 
 <!--- Made in https://canva.com --->
 
@@ -50,6 +55,7 @@ I may have less experience, but I will continue to learn more and more until I c
 ## 💻 Tech Skills
 
 ![Dart](https://img.shields.io/badge/Code-Dart-red?style=flat&logo=dart&logoColor=1cbcfc&color=1cacec)
+
 <!-- ![Javascript](https://img.shields.io/badge/Code-Javascript-red?style=flat&logo=javascript&color=f4dc1c) -->
 
 </br>
@@ -61,6 +67,7 @@ I may have less experience, but I will continue to learn more and more until I c
 ![Firebase](https://img.shields.io/badge/Tools-Firebase-red?style=flat&logo=firebase&color=fba30b)
 ![Git](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=f05032)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-red?style=flat&logo=gitHub&color=181717)
+
 <!-- ![Postman](https://img.shields.io/badge/Tools-Postman-red?style=flat&logo=postman&color=ff6c37) -->
 <!-- ![NPM](https://img.shields.io/badge/Tools-NPM-red?style=flat&logo=npm&color=cb3837) -->
 
@@ -68,13 +75,9 @@ I may have less experience, but I will continue to learn more and more until I c
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=radical#gh-dark-mode-only)
+![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=radical#gh-dark-mode-only)![My GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&border_color=000000&theme=default#gh-light-mode-only)
 
-![My GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&border_color=000000&theme=default#gh-light-mode-only)
-
-![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&theme=radical#gh-dark-mode-only)
-
-![Most used langs (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&border_color=000000&theme=default#gh-light-mode-only)
+![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&theme=radical#gh-dark-mode-only)![Most used langs (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&border_color=000000&theme=default#gh-light-mode-only)
 
 <!---
 KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
