@@ -1,9 +1,4 @@
-<img 
-  src="assets/my-profile/my-banner.gif"
-  style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;" />
+![My Banner](assets/my-profile/my-banner.gif)
 
 <!--- Made in https://canva.com --->
 
@@ -75,9 +70,9 @@ I may have less experience, but I will continue to learn more and more until I c
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=radical#gh-dark-mode-only)![My GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&border_color=000000&theme=default#gh-light-mode-only)
+![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=radical)
 
-![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&theme=radical#gh-dark-mode-only)![Most used langs (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&border_color=000000&theme=default#gh-light-mode-only)
+![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&theme=radical)
 
 <!---
 KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
