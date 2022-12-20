@@ -3,7 +3,7 @@
 <!--- Made in https://canva.com --->
 
 <h1 align="center">Hi there 👋, I'm Kemal</h1>
-<h3 align="center" style="font-weight: bold">A Flutter enthusiast</h3>
+<h3 align="center" style="font-weight: bold">A Flutter enthusiast from Indonesia</h3>
 
 </br>
 
@@ -36,22 +36,18 @@ I may have less experience, but I will continue to learn more and more until I c
 
 ## 🌱 I’m currently learning...
 
-- Continuous Integration/Deployment (CI/CD)
-- Performance and Security (App profiling, encryption, and SSL Pinning)
-- Post-Development (Firebase Analytics and Crashlytics)
+- [AWS Back-End Developer Scholarship Program.](https://aws.dicoding.com/)
 
 ## 🔭 I’m currently working on ...
 
 - Cloning some popular app using Flutter.
 - Cloning UI from Dribble using Flutter.
-- My own app using TMDb API.
 - My CV and Portfolio.
 
 ## 💻 Tech Skills
 
 ![Dart](https://img.shields.io/badge/Code-Dart-red?style=flat&logo=dart&logoColor=1cbcfc&color=1cacec)
-
-<!-- ![Javascript](https://img.shields.io/badge/Code-Javascript-red?style=flat&logo=javascript&color=f4dc1c) -->
+![Javascript](https://img.shields.io/badge/Code-Javascript-red?style=flat&logo=javascript&color=f4dc1c)
 
 </br>
 
@@ -59,12 +55,11 @@ I may have less experience, but I will continue to learn more and more until I c
 
 </br>
 
-![Firebase](https://img.shields.io/badge/Tools-Firebase-red?style=flat&logo=firebase&color=fba30b)
-![Git](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=f05032)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-red?style=flat&logo=gitHub&color=181717)
-
-<!-- ![Postman](https://img.shields.io/badge/Tools-Postman-red?style=flat&logo=postman&color=ff6c37) -->
-<!-- ![NPM](https://img.shields.io/badge/Tools-NPM-red?style=flat&logo=npm&color=cb3837) -->
+![Git](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=f05032)
+![Firebase](https://img.shields.io/badge/Tools-Firebase-red?style=flat&logo=firebase&color=fba30b)
+![NPM](https://img.shields.io/badge/Tools-NPM-red?style=flat&logo=npm&color=cb3837)
+![Postman](https://img.shields.io/badge/Tools-Postman-red?style=flat&logo=postman&color=ff6c37)
 
 ## 📈 GitHub Stats
 
