@@ -1,41 +1,19 @@
-<style>
-  .txtCenter {
-    text-align: center;
-  }
-
-  .sosMedIcon{
-    width: 60px;
-    margin: 0px 8px
-  }
-
-</style>
-
 <img 
   src="assets/my-profile/my-banner.gif"
-  style="
-    display: block;
-    width: 600px;
-    margin: auto
-  " 
+  style="display: block; width: 600px; margin: auto;" 
 />
 
 <!--- Made in https://canva.com --->
 
-<h1 class="txtCenter">Hi there 👋, I'm Kemal</h1>
-<h3 style="
-  text-align: center;
-  font-weight: bold;
-  margin-bottom: 16px;
-  "
->
-  A Flutter enthusiast from Indonesia
-</h3>
+<h1 style="text-align: center;">Hi there 👋, I'm Kemal</h1>
+<h3 style="text-align: center; font-weight: bold; margin-bottom: 16px;"
+>A Flutter enthusiast from Indonesia</h3>
 
-<p class="txtCenter">
+<p style="text-align: center;">
   High school graduates interested in Software Development, especially <b>Android</b>. Experienced in developing Android applications using <b>Flutter</b>. Even though I don't have a formal IT educational background, I am confident in my abilities.
 </p>
 
-<p class="txtCenter">
+<p style="text-align: center;">
   Why choose <b>Dart</b> as my primary language? Because it is simple to learn and understand. The documentation has also been widely spread on the internet. It even has a capable framework (Flutter) for developing multi-platform (mobile, web, and dekstop) applications.
 </p>
 
@@ -43,33 +21,30 @@
 
 <a href="mailto:keidscode@gmail.com">
   <img 
-    class="sosMedIcon"
     src="assets/icons/gmail-logo.png" 
     alt="My Gmail"
+    style="width: 60px; margin: 0px 8px;"
   />
 </a>
 <a href="https://discordapp.com/users/1027789230069518346">
   <img
-    class="sosMedIcon" 
     src="assets/icons/discord-logo.png" 
     alt="My Discord"
-    width="50vw" 
+    style="width: 60px; margin: 0px 8px;"  
   />
 </a>
 <a href="https://twitter.com/keids_id">
   <img
-    class="sosMedIcon" 
     src="assets/icons/twitter-logo.png" 
     alt="My Twitter"
-    width="50vw" 
+    style="width: 60px; margin: 0px 8px;"  
   />
 </a>
 <a href="https://www.linkedin.com/in/keidsid/">
   <img
-    class="sosMedIcon" 
     src="assets/icons/linkedin-logo.png" 
     alt="My LinkedIn"
-    width="50vw" 
+    style="width: 60px; margin: 0px 8px;"  
   />
 </a>
 
