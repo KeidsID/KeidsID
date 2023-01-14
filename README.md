@@ -1,48 +1,90 @@
-![My Banner](assets/my-profile/my-banner.gif)
+<style>
+  .txtCenter {
+    text-align: center;
+  }
+
+  .sosMedIcon{
+    width: 60px;
+    margin: 0px 8px
+  }
+
+</style>
+
+<img 
+  src="assets/my-profile/my-banner.gif"
+  style="
+    display: block;
+    width: 600px;
+    margin: auto
+  " 
+/>
 
 <!--- Made in https://canva.com --->
 
-<h1 align="center">Hi there 👋, I'm Kemal</h1>
-<h3 align="center" style="font-weight: bold">A Flutter enthusiast from Indonesia</h3>
+<h1 class="txtCenter">Hi there 👋, I'm Kemal</h1>
+<h3 style="
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 16px;
+  "
+>
+  A Flutter enthusiast from Indonesia
+</h3>
 
-</br>
+<p class="txtCenter">
+  High school graduates interested in Software Development, especially <b>Android</b>. Experienced in developing Android applications using <b>Flutter</b>. Even though I don't have a formal IT educational background, I am confident in my abilities.
+</p>
 
-I love building apps with Flutter because the framework provides lots of resources and good documentation to learn from.
-
-I may have less experience, but I will continue to learn more and more until I can become a good developer. Wish me luck 😊.
+<p class="txtCenter">
+  Why choose <b>Dart</b> as my primary language? Because it is simple to learn and understand. The documentation has also been widely spread on the internet. It even has a capable framework (Flutter) for developing multi-platform (mobile, web, and dekstop) applications.
+</p>
 
 ## 🤝 Connect with me
 
 <a href="mailto:keidscode@gmail.com">
   <img 
+    class="sosMedIcon"
     src="assets/icons/gmail-logo.png" 
     alt="My Gmail"
-    width="50vw" />
+  />
 </a>
 <a href="https://discordapp.com/users/1027789230069518346">
-  <img 
+  <img
+    class="sosMedIcon" 
     src="assets/icons/discord-logo.png" 
     alt="My Discord"
-    width="50vw" />
+    width="50vw" 
+  />
 </a>
 <a href="https://twitter.com/keids_id">
-  <img 
+  <img
+    class="sosMedIcon" 
     src="assets/icons/twitter-logo.png" 
     alt="My Twitter"
-    width="50vw" />
+    width="50vw" 
+  />
+</a>
+<a href="https://www.linkedin.com/in/keidsid/">
+  <img
+    class="sosMedIcon" 
+    src="assets/icons/linkedin-logo.png" 
+    alt="My LinkedIn"
+    width="50vw" 
+  />
 </a>
 
-- 💬 Feel free to ask me about Dart/Flutter
+💬 Feel free to ask me about Dart/Flutter
 
 ## 🌱 I’m currently learning...
 
-- [AWS Back-End Developer Scholarship Program.](https://aws.dicoding.com/)
+- [AWS Back-End Developer Scholarship Program](https://aws.dicoding.com/).
+- Flutter animation (still amateur about it).
+- [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) package.
 
 ## 🔭 I’m currently working on ...
 
-- Cloning some popular app using Flutter.
-- Cloning UI from Dribble using Flutter.
-- My CV and Portfolio.
+- Make some personal Flutter Apps.
+- Cloning some popular apps using Flutter.
 
 ## 💻 Tech Skills
 
@@ -55,11 +97,11 @@ I may have less experience, but I will continue to learn more and more until I c
 
 </br>
 
-![GitHub](https://img.shields.io/badge/Tools-GitHub-red?style=flat&logo=gitHub&color=181717)
-![Git](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=f05032)
-![Firebase](https://img.shields.io/badge/Tools-Firebase-red?style=flat&logo=firebase&color=fba30b)
-![NPM](https://img.shields.io/badge/Tools-NPM-red?style=flat&logo=npm&color=cb3837)
-![Postman](https://img.shields.io/badge/Tools-Postman-red?style=flat&logo=postman&color=ff6c37)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-red?style=flat&logo=gitHub&color=181717)
+![Git](https://img.shields.io/badge/Tool-Git-red?style=flat&logo=git&color=f05032)
+![Firebase](https://img.shields.io/badge/Tool-Firebase-red?style=flat&logo=firebase&color=fba30b)
+![NPM](https://img.shields.io/badge/Tool-NPM-red?style=flat&logo=npm&color=cb3837)
+![Postman](https://img.shields.io/badge/Tool-Postman-red?style=flat&logo=postman&color=ff6c37)
 
 ## 📈 GitHub Stats
 
