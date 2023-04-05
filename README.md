@@ -1,21 +1,23 @@
 <p align="center">
   <img 
-    src="assets/my-profile/my-banner.gif"
+    src="assets/images/kaguya-sama-neko.gif"
     alt="My banner"
-    width="600px"
+    width="300px"
+    height="300px"
   />
 </p>
+
+
 <!--- Made in https://canva.com --->
 
 <h1 align="center">Hi there 👋, I'm Kemal</h1>
-<h3 align="center"><b>A Flutter enthusiast from Indonesia</b></h3>
 
 <p align="center">
-  High school graduates interested in Software Development, especially <b>Android</b>. Experienced in developing Android applications using <b>Flutter</b>. Even though I don't have a formal IT educational background, I am confident in my abilities.
+  Hello there! I am a Dart/Flutter Developer, and as an introvert, I prefer to spend my time working on my projects rather than socializing. However, that doesn't mean I'm not curious! In fact, my curiosity is what drives me to learn new things and explore different ways of solving problems in my field. Whether it's through reading or experimenting with new technologies, I always strive to expand my knowledge and skills as a developer. So if you need someone who is dedicated, self-motivated, and always eager to learn, I might just be the developer you're looking for.
 </p>
 
 <p align="center">
-  Why choose <b>Dart</b> as my primary language? Because it is simple to learn and understand. The documentation has also been widely spread on the internet. It even has a capable framework (Flutter) for developing multi-platform (mobile, web, and dekstop) applications.
+  When I'm not coding, I usually do the things that I love: anime and gaming. I love watching anime series that explore unique themes and characters. At the same time, I also enjoy playing video games that challenge my mind and reflexes and have a compelling storyline. I find that these hobbies provide me with a much-needed break from coding, allowing me to unwind and recharge my creative batteries. Plus, they're just plain fun!
 </p>
 
 ## 🤝 Connect with me
@@ -54,8 +56,8 @@
 ## 🌱 I’m currently learning...
 
 - [AWS Back-End Developer Scholarship Program](https://aws.dicoding.com/).
-- Flutter animation (still amateur about it).
-- [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) package.
+- Flutter animation.
+- Flutter [go_router](https://pub.dev/packages/go_router) package.
 
 ## 🔭 I’m currently working on ...
 
