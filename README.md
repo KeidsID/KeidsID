@@ -13,7 +13,7 @@
 <h1 align="center">Hi there 👋, I'm Kemal</h1>
 
 <p align="center">
-  Hello there! I am a Dart/Flutter Developer, and as an introvert, I prefer to spend my time working on my projects rather than socializing. However, that doesn't mean I'm not curious! In fact, my curiosity is what drives me to learn new things and explore different ways of solving problems in my field. Whether it's through reading or experimenting with new technologies, I always strive to expand my knowledge and skills as a developer. So if you need someone who is dedicated, self-motivated, and always eager to learn, I might just be the developer you're looking for.
+  I am a Dart/Flutter Developer, and as an introvert, I prefer to spend my time working on my projects rather than socializing. However, that doesn't mean I'm not curious! In fact, my curiosity is what drives me to learn new things and explore different ways of solving problems in my field. Whether it's through reading or experimenting with new technologies, I always strive to expand my knowledge and skills as a developer. So if you need someone who is dedicated, self-motivated, and always eager to learn, I might just be the developer you're looking for.
 </p>
 
 <p align="center">
