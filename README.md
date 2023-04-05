@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="assets/images/kaguya-sama-neko.gif"
-    alt="My banner"
+    alt="Nya"
     width="300px"
     height="300px"
   />
@@ -77,8 +77,8 @@
 
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-red?style=flat&logo=gitHub&color=181717)
 ![Git](https://img.shields.io/badge/Tool-Git-red?style=flat&logo=git&color=f05032)
-![Firebase](https://img.shields.io/badge/Tool-Firebase-red?style=flat&logo=firebase&color=fba30b)
 ![NPM](https://img.shields.io/badge/Tool-NPM-red?style=flat&logo=npm&color=cb3837)
+![Firebase](https://img.shields.io/badge/Tool-Firebase-red?style=flat&logo=firebase&color=fba30b)
 ![Postman](https://img.shields.io/badge/Tool-Postman-red?style=flat&logo=postman&color=ff6c37)
 
 ## 📈 GitHub Stats
@@ -86,7 +86,6 @@
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
 ![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=radical)
-
 ![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&theme=radical)
 
 <!---
