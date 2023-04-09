@@ -13,11 +13,11 @@
 <h1 align="center">Hi there 👋, I'm Kemal</h1>
 
 <p align="center">
-  I am a Dart/Flutter Developer, and as an introvert, I prefer to spend my time working on my projects rather than socializing. However, that doesn't mean I'm not curious! In fact, my curiosity is what drives me to learn new things and explore different ways of solving problems in my field. Whether it's through reading or experimenting with new technologies, I always strive to expand my knowledge and skills as a developer. So if you need someone who is dedicated, self-motivated, and always eager to learn, I might just be the developer you're looking for.
+  I am a Dart/Flutter Developer, and as an introvert, I prefer to spend time working on my projects rather than socializing. However, that doesn't mean I'm not curious! My curiosity drives me to learn new things and explore different methods of solving problems. Whether it's through reading or experimenting with new technologies, I always seek to expand my knowledge and skills as a developer. So if you need someone dedicated, self-motivated, and always enthusiastic to learn, I might just be the developer you're looking for.
 </p>
 
 <p align="center">
-  When I'm not coding, I usually do the things that I love: anime and gaming. I love watching anime series that explore unique themes and characters. At the same time, I also enjoy playing video games that challenge my mind and reflexes and have a compelling storyline. I find that these hobbies provide me with a much-needed break from coding, allowing me to unwind and recharge my creative batteries. Plus, they're just plain fun!
+  When I'm not coding, I usually do the things that I love: anime and gaming. I love watching anime series that explore unique themes and characters. At the same time, I also enjoy playing video games that challenge my mind and reflexes and have a compelling storyline. I find that these hobbies provide me with a much-needed break from coding, allowing me to relax and recharge my creative batteries. Plus, they're just plain fun!
 </p>
 
 ## 🤝 Connect with me
