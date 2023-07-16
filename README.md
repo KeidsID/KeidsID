@@ -7,16 +7,27 @@
   />
 </p>
 
-<!--- Made in https://canva.com --->
-
-<h1 align="center">Hi there 👋, I'm Kemal</h1>
+<h1 align="center">About Me</h1>
 
 <p align="justify">
-  I am a Dart/Flutter Developer, and as an introvert, I prefer to spend time working on my projects rather than socializing. However, that doesn't mean I'm not curious! My curiosity drives me to learn new things and explore different methods of solving problems. Whether it's through reading or experimenting with new technologies, I always seek to expand my knowledge and skills as a developer. So if you need someone dedicated, self-motivated, and always enthusiastic to learn, I might just be the developer you're looking for.
+Hi there! I'm Kemal Idris, a self-taught developer. I often use Dart and
+Flutter, which are tools for creating applications across multiple platforms
+such as mobile, web, and even desktop. I also have experience with JavaScript
+and Node.js, which allows me to create web applications or server RestAPIs.
 </p>
 
 <p align="justify">
-  When I'm not coding, I usually do the things that I love: anime and gaming. I love watching anime series that explore unique themes and characters. At the same time, I also enjoy playing video games that challenge my mind and reflexes and have a compelling storyline. I find that these hobbies provide me with a much-needed break from coding, allowing me to relax and recharge my creative batteries. Plus, they're just fun!
+As a self-taught person, I keep trying to expand my knowledge and keep up with
+the latest developments in the tech industry. I enjoy exploring new programming
+concepts and experimenting with different frameworks and libraries. I believe
+that seeking knowledge is a lifetime journey, and I am always excited to learn
+and grow as a developer.
+</p>
+
+<p align="justify">
+I enjoy every time I'm coding an app. If you have any interesting projects or
+opportunities where I can use my skills and enthusiasm, I would love to hear
+from you! Let's connect and create something amazing together.
 </p>
 
 ## 🤝 Connect with me
@@ -24,68 +35,62 @@
 <a href="mailto:keidscode@gmail.com">
   <img 
     src="assets/icons/gmail-logo.png" 
-    alt="My Gmail"
+    alt="keidscode@gmail.com"
     width="60px"
   />
 </a>
 <a href="https://discordapp.com/users/1027789230069518346">
   <img
     src="assets/icons/discord-logo.png" 
-    alt="My Discord"
+    alt="@keids_id on Discord"
     width="60px"
   />
 </a>
 <a href="https://twitter.com/keids_id">
   <img
     src="assets/icons/twitter-logo.png" 
-    alt="My Twitter"
+    alt="@keids_id on Twitter"
     width="60px"
   />
 </a>
 <a href="https://www.linkedin.com/in/keidsid/">
   <img
     src="assets/icons/linkedin-logo.png" 
-    alt="My LinkedIn"
+    alt="@keidsid on LinkedIn"
     width="60px"
   />
 </a>
 
 💬 Feel free to ask me about Dart/Flutter
 
-## 🌱 I’m currently learning...
-
-- [AWS Back-End Developer Scholarship Program](https://aws.dicoding.com/).
-- Flutter animation.
-- Flutter [go_router](https://pub.dev/packages/go_router) package.
-
-## 🔭 I’m currently working on ...
-
-- Make some personal Flutter Apps.
-- Cloning some popular apps using Flutter.
-
 ## 💻 Tech Skills
 
-![Dart](https://img.shields.io/badge/Code-Dart-red?style=flat&logo=dart&logoColor=1cbcfc&color=1cacec)
-![Javascript](https://img.shields.io/badge/Code-Javascript-red?style=flat&logo=javascript&color=f4dc1c)
+### Coding Languages
 
-</br>
+![Dart](https://img.shields.io/badge/Dart-red?style=flat&logo=dart&logoColor=2cb8f7&labelColor=333333&color=01579b)
+![Javascript](https://img.shields.io/badge/Javascript-red?style=flat&logo=javascript&labelColor=333333&color=F7DF1E)
 
-![Flutter](https://img.shields.io/badge/Framework-Flutter-red?style=flat&logo=flutter&logoColor=1cbcfc&color=1cacec)
+### Frameworks
 
-</br>
+![Flutter](https://img.shields.io/badge/Dart-Flutter-red?style=flat&logo=flutter&logoColor=2cb8f7&labelColor=333333&color=01579b)
+![Jest](https://img.shields.io/badge/JavaScript_Testing-Jest-red?style=flat&logo=jest&logoColor=e3648a&labelColor=333333&color=C21325)
+![Hapi.Js](https://img.shields.io/badge/Node-Hapi.Js-red?style=flat&labelColor=333333&color=464646)
 
-![GitHub](https://img.shields.io/badge/Tool-GitHub-red?style=flat&logo=gitHub&color=181717)
-![Git](https://img.shields.io/badge/Tool-Git-red?style=flat&logo=git&color=f05032)
-![NPM](https://img.shields.io/badge/Tool-NPM-red?style=flat&logo=npm&color=cb3837)
-![Firebase](https://img.shields.io/badge/Tool-Firebase-red?style=flat&logo=firebase&color=fba30b)
-![Postman](https://img.shields.io/badge/Tool-Postman-red?style=flat&logo=postman&color=ff6c37)
+### Others
+
+![GitHub](https://img.shields.io/badge/GitHub-red?style=flat&logo=gitHub&color=333333)
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&labelColor=333333&color=f05032)
+![Node.Js](https://img.shields.io/badge/Node.Js-red?style=flat&logo=nodedotjs&labelColor=333333&color=339933)
+![NPM](https://img.shields.io/badge/NPM-red?style=flat&logo=npm&labelColor=333333&color=cb3837)
+![Postman](https://img.shields.io/badge/Postman-red?style=flat&logo=postman&labelColor=333333&color=ff6c37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=flat&logo=postgresql&labelColor=333333&color=4169E1)
 
 ## 📈 GitHub Stats
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=dracula)
-![Most used Lang (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
+![KeidsID Github Stats](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=dracula)
+![KeidsID Most Used Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
 
 <!---
 KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
