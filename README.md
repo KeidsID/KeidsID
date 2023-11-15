@@ -1,11 +1,27 @@
-<p align="center">
-  <img 
+<!---
+KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+
+<!-- <p align="center">
+  <img
     src="assets/images/kaguya-sama-neko.gif"
     alt="Nya"
     width="300px"
     height="300px"
   />
-</p>
+</p> -->
 
 <h1 align="center">About Me</h1>
 
@@ -69,6 +85,7 @@ from you! Let's connect and create something amazing together.
 
 ![Dart](https://img.shields.io/badge/Dart-red?style=flat&logo=dart&logoColor=2cb8f7&labelColor=333333&color=01579b)
 ![Javascript](https://img.shields.io/badge/Javascript-red?style=flat&logo=javascript&labelColor=333333&color=F7DF1E)
+![Typescript](https://img.shields.io/badge/Typescript-red?style=flat&logo=typescript&labelColor=333333&color=3178c6)
 
 ### Frameworks
 
@@ -81,29 +98,10 @@ from you! Let's connect and create something amazing together.
 ![GitHub](https://img.shields.io/badge/GitHub-red?style=flat&logo=gitHub&color=333333)
 ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&labelColor=333333&color=f05032)
 ![Node.Js](https://img.shields.io/badge/Node.Js-red?style=flat&logo=nodedotjs&labelColor=333333&color=339933)
-![NPM](https://img.shields.io/badge/NPM-red?style=flat&logo=npm&labelColor=333333&color=cb3837)
-![Postman](https://img.shields.io/badge/Postman-red?style=flat&logo=postman&labelColor=333333&color=ff6c37)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=flat&logo=postgresql&labelColor=333333&color=4169E1)
 
 ## 📈 GitHub Stats
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![KeidsID Github Stats](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=dracula)
 ![KeidsID Most Used Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
-
-<!---
-KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
