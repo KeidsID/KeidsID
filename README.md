@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img
     src="assets/images/Mihoyo-ZZZ-Anby_Demara.gif"
     alt="Nya"
-    width="auto"
+    height="300px"
   />
 </p>
 
