@@ -1,3 +1,15 @@
+[homepage-dart]: https://dart.dev
+[homepage-js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[homepage-ts]: https://www.typescriptlang.org
+[homepage-flutter]: https://flutter.dev
+[homepage-express]: https://expressjs.com
+[homepage-fastify]: https://fastify.dev
+[homepage-hapi]: https://hapi.dev
+[homepage-react]: https://react.dev
+[homepage-jest]: https://jestjs.io
+[homepage-node]: https://nodejs.org
+[homepage-postgresql]: https://www.postgresql.org
+
 <!---
 KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,37 +26,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --->
 
-<!-- <p align="center">
+<p align="center">
   <img
-    src="assets/images/kaguya-sama-neko.gif"
+    src="assets/images/Mihoyo-ZZZ-Anby_Demara.gif"
     alt="Nya"
-    width="300px"
-    height="300px"
+    width="auto"
   />
-</p> -->
+</p>
 
 <h1 align="center">About Me</h1>
 
-<p align="justify">
-Hi there! I'm Kemal Idris, a self-taught developer. I often use Dart and
-Flutter, which are tools for creating applications across multiple platforms
-such as mobile, web, and even desktop. I also have experience with JavaScript
-and Node.js, which allows me to create web applications or server RestAPIs.
-</p>
+Hi, my name is Kemal Idris (He/Him). I'm a self-taught developer who loves to
+learn about software development.
 
-<p align="justify">
-As a self-taught person, I keep trying to expand my knowledge and keep up with
-the latest developments in the tech industry. I enjoy exploring new programming
-concepts and experimenting with different frameworks and libraries. I believe
-that seeking knowledge is a lifetime journey, and I am always excited to learn
-and grow as a developer.
-</p>
+If you have any interesting projects or opportunities where I can use my skills
+and enthusiasm, I would love to hear from you! Let's connect and create
+something amazing together.
 
-<p align="justify">
-I enjoy every time I'm coding an app. If you have any interesting projects or
-opportunities where I can use my skills and enthusiasm, I would love to hear
-from you! Let's connect and create something amazing together.
-</p>
+- ⚡ Fun fact: I am also an introvert who loves foods, music, and play video
+  games.
 
 ## 🤝 Connect with me
 
@@ -77,28 +77,29 @@ from you! Let's connect and create something amazing together.
   />
 </a>
 
-💬 Feel free to ask me about Dart/Flutter
-
 ## 💻 Tech Skills
 
 ### Coding Languages
 
-![Dart](https://img.shields.io/badge/Dart-red?style=flat&logo=dart&logoColor=2cb8f7&labelColor=333333&color=01579b)
-![Javascript](https://img.shields.io/badge/Javascript-red?style=flat&logo=javascript&labelColor=333333&color=F7DF1E)
-![Typescript](https://img.shields.io/badge/Typescript-red?style=flat&logo=typescript&labelColor=333333&color=3178c6)
+[![Dart](https://img.shields.io/badge/Dart-red?style=flat&logo=dart&logoColor=2cb8f7&labelColor=333333&color=01579b)][homepage-dart]
+[![Javascript](https://img.shields.io/badge/Javascript-red?style=flat&logo=javascript&labelColor=333333&color=F7DF1E)][homepage-js]
+[![Typescript](https://img.shields.io/badge/Typescript-red?style=flat&logo=typescript&labelColor=333333&color=3178c6)][homepage-ts]
 
-### Frameworks
+### Frameworks/Libraries
 
-![Flutter](https://img.shields.io/badge/Dart-Flutter-red?style=flat&logo=flutter&logoColor=2cb8f7&labelColor=333333&color=01579b)
-![Jest](https://img.shields.io/badge/JavaScript_Testing-Jest-red?style=flat&logo=jest&logoColor=e3648a&labelColor=333333&color=C21325)
-![Hapi.Js](https://img.shields.io/badge/Node-Hapi.Js-red?style=flat&labelColor=333333&color=464646)
+[![flutter](https://img.shields.io/badge/Dart-Flutter-red?style=flat&logo=flutter&logoColor=2cb8f7&labelColor=333333&color=01579b)][homepage-flutter]
+[![express.js](https://img.shields.io/badge/Node.js-Express-red?style=flat&labelColor=333333&color=6b6b73&logo=express)][homepage-express]
+[![fastify.js](https://img.shields.io/badge/Node.js-Fastify-red?style=flat&labelColor=333333&color=ffffff&logo=fastify)][homepage-fastify]
+[![hapi.js](https://img.shields.io/badge/Node.js-Hapi-red?style=flat&labelColor=333333&color=6b6b73&logo=hapi)][homepage-hapi]
+[![react.js](https://img.shields.io/badge/Javascript-React-red?style=flat&labelColor=333333&color=61dafb&logo=react)][homepage-react]
+[![jest.js](https://img.shields.io/badge/Js_test_library-jest-red?style=flat&logo=jest&logoColor=e3648a&labelColor=333333&color=C21325)][homepage-jest]
 
 ### Others
 
 ![GitHub](https://img.shields.io/badge/GitHub-red?style=flat&logo=gitHub&color=333333)
 ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&labelColor=333333&color=f05032)
-![Node.Js](https://img.shields.io/badge/Node.Js-red?style=flat&logo=nodedotjs&labelColor=333333&color=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=flat&logo=postgresql&labelColor=333333&color=4169E1)
+[![Node.Js](https://img.shields.io/badge/Node.Js-red?style=flat&logo=nodedotjs&labelColor=333333&color=339933)][homepage-node]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=flat&logo=postgresql&labelColor=333333&color=4169E1)][homepage-postgresql]
 
 ## 📈 GitHub Stats
 
