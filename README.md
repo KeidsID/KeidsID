@@ -64,7 +64,7 @@ something amazing together.
 </a>
 <a href="https://twitter.com/keids_id">
   <img
-    src="assets/icons/twitter-logo.png" 
+    src="assets/icons/twitter-x-new-logo.png" 
     alt="@keids_id on Twitter"
     width="60px"
   />
@@ -105,4 +105,6 @@ something amazing together.
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![KeidsID Most Used Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
+<!-- ![stats-github](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=dracula) -->
+
+![stats-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
