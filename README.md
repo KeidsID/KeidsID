@@ -1,3 +1,5 @@
+# Bio
+
 [homepage-dart]: https://dart.dev
 [homepage-js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [homepage-ts]: https://www.typescriptlang.org
@@ -10,41 +12,19 @@
 [homepage-node]: https://nodejs.org
 [homepage-postgresql]: https://www.postgresql.org
 
-<!---
-KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-
 <p align="center">
   <img
-    src="assets/images/Mihoyo-ZZZ-Anby_Demara.gif"
-    alt="Nya"
-    height="300px"
+    src="assets/images/sticker_pjsk_kanadeYoisaki_wave.gif"
+    alt="sticker"
   />
 </p>
 
-<h1 align="center">About Me</h1>
-
-Hi, my name is Kemal Idris (He/Him). I'm a self-taught developer who loves to
-learn about software development.
+Hi, my name is Kemal Idris (He/Him). I'm a self-taught developer who loves
+Software Development.
 
 If you have any interesting projects or opportunities where I can use my skills
 and enthusiasm, I would love to hear from you! Let's connect and create
 something amazing together.
-
-- ⚡ Fun fact: I am also an introvert who loves foods, music, and play video
-  games.
 
 ## 🤝 Connect with me
 
@@ -85,6 +65,8 @@ something amazing together.
 [![Javascript](https://img.shields.io/badge/Javascript-red?style=flat&logo=javascript&labelColor=333333&color=F7DF1E)][homepage-js]
 [![Typescript](https://img.shields.io/badge/Typescript-red?style=flat&logo=typescript&labelColor=333333&color=3178c6)][homepage-ts]
 
+![stats-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
+
 ### Frameworks/Libraries
 
 [![flutter](https://img.shields.io/badge/Dart-Flutter-red?style=flat&logo=flutter&logoColor=2cb8f7&labelColor=333333&color=01579b)][homepage-flutter]
@@ -101,10 +83,24 @@ something amazing together.
 [![Node.Js](https://img.shields.io/badge/Node.Js-red?style=flat&logo=nodedotjs&labelColor=333333&color=339933)][homepage-node]
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=flat&logo=postgresql&labelColor=333333&color=4169E1)][homepage-postgresql]
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
 <!-- ![stats-github](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=dracula) -->
 
-![stats-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&exclude_repo=keidsid.github.io,dicoding-flutter-story-app-web-build&theme=dracula)
+<!---
+KeidsID/KeidsID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
