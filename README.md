@@ -16,6 +16,7 @@
   <img
     src="assets/images/sticker_pjsk_kanadeYoisaki_wave.gif"
     alt="sticker"
+    height="240vw"
   />
 </p>
 
